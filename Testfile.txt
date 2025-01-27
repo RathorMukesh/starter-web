@@ -1,0 +1,9 @@
+Go to GitHub and log in.
+
+In the top-right corner, click your profile picture and select Settings.
+
+On the left sidebar, click SSH and GPG keys.
+
+Click the New SSH key button, give it a title, and paste the key you copied earlier.
+
+Click Add SSH key.
