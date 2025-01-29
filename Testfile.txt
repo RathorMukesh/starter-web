@@ -1,4 +1,4 @@
-Go to GitHub and log in.
+hello Go to GitHub and log in.
 
 In the top-right corner, click your profile picture and select Settings.
 
