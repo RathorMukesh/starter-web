@@ -7,3 +7,6 @@ On the left sidebar, click SSH and GPG keys.
 Click the New SSH key button, give it a title, and paste the key you copied earlier.
 
 Click Add SSH key.
+
+
+ok ok
